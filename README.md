@@ -13,6 +13,6 @@
 
 <img width="959" alt="Screenshot_20221125_111034" src="https://user-images.githubusercontent.com/116442206/236882388-b86be5f1-bff4-4406-92d0-0a91d090e56f.png">
 
-**2. ** The user can click any of the four websites linked. For example if they choose to click on calculator: 
+**2.** The user can click any of the four websites linked. For example if they choose to click on calculator: 
 
 <img width="1120" alt="Screenshot 2023-05-04 111521" src="https://user-images.githubusercontent.com/116442206/236891575-9005386c-2d84-43ec-8347-34e57b899417.png">
