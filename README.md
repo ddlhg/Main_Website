@@ -15,5 +15,4 @@
 
 **2. ** The user can click any of the four websites linked. For example if they choose to click on calculator: 
 
-
-<img width="1120" alt="Screenshot 2023-05-04 111521" src="https://user-images.githubusercontent.com/116442206/236884641-9938a59c-6647-46f9-9ab7-8c75783d093a.png">
+<img width="1120" alt="Screenshot 2023-05-04 111521" src="https://user-images.githubusercontent.com/116442206/236891575-9005386c-2d84-43ec-8347-34e57b899417.png">
