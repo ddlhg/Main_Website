@@ -1,0 +1,88 @@
+.section .section-center {
+	position: absolute;
+	top: 40%;
+	left: 1px;
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+#desktop {
+	font-family: 'Montserrat', sans-serif;
+	background-image: url('../img/nnn.jpg');
+	width: auto;
+    height: 775px;
+    
+}
+
+.desktop-window {
+    background-image: url('../img/3.png');
+    background-size: cover;
+    width: 600px;
+    height: 400px;  
+}
+
+.desktop-window a {
+    margin-left: 30px;
+	font-size: 16px;
+	color: black;
+}
+
+.desktop-window img {
+    margin-top: 90px;
+}
+
+#icons img{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#icons p{
+    margin-left: 25px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.desktop-window img:hover {
+  background-color: #083c9c;
+    border-style: solid;
+    border-width: thin;
+    border-color: lightyellow;
+}
+
+.list img:hover {
+  background-color: lightgray;
+}
+
+a:hover{
+    font-size: 20px;
+}
+
+.menu{
+    height: 375px;
+}
+
+.clip{
+    margin-top: 200px;
+    width: 150px;
+}
+.bubble{
+    background-color: lightyellow;
+    margin-left:900px;
+    margin-top: 100px;
+    width: 150px;
+    height: 100px;
+    
+}
+.bubble p {
+    color: black;
+    
+}
+
+#taskbar{
+    height: 40px;
+    background-color: midnightblue;  
+}
+#taskbar p {
+    margin-left: 40px;    
+    color: white;
+}
