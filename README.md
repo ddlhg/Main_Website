@@ -1,4 +1,4 @@
-# Main_page 💻
+# Main Website 💻
 ### Description
 - This project consists of designing a main website that would hold other websites in it. In this case the main website has linked websites with projects such as calculator, two different versions of resumes, and a tic tac toe game. The userr can click to go to any of the websites linked and caan go back to the main page quickly and efficiently.
 
